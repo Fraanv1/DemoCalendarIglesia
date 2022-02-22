@@ -1,0 +1,108 @@
+D:\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+D:\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+D:\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csproj.GenerateResource.Cache
+D:\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+D:\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_general.resources
+D:\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_SUM.resources
+D:\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_bautismos.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+E:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_general.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_bautismos.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_SUM.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csproj.GenerateResource.Cache
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_general.resources
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_bautismos.resources
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_SUM.resources
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Alumnos\Downloads\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csproj.GenerateResource.Cache
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_general.resources
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_bautismos.resources
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csproj.GenerateResource.Cache
+D:\Usuario Alumno\Descargas\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Responsos.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Responsos.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_bautismos.resources
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Responsos.resources
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Frm_SUM.resources
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Comuniones.resources
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Misas.resources
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Principal.resources
+C:\Documents and Settings\Administrador\Escritorio\Seminario Toledo\Copia de Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bodas.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bodas.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Comuniones.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Principal.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Responsos.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_SUM.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Misas.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csproj.GenerateResource.Cache
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bautismo.resources
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+C:\Users\Fran\Desktop\Insti\Seminario de prog\All-In-1 Iglesia\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bautismo.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bodas.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Comuniones.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Principal.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_SUM.resources
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Misas.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bautismo.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bodas.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Comuniones.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Principal.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Responsos.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_SUM.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Misas.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+P:\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csproj.GenerateResource.Cache
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bautismo.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Bodas.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Comuniones.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Principal.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Responsos.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_SUM.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.FRM_Misas.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csproj.GenerateResource.Cache
+E:\Año 2019\Seminario\Programa_Iglesia\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.csprojResolveAssemblyReference.cache
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb

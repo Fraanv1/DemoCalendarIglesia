@@ -1,0 +1,423 @@
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\bin\Debug\Programa_Iglesia.pdb
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Programa_Iglesia\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Agustin-Nacho(fusion v2)s\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\Nacho-Agustin (Completo)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Lopez\Desktop\TODO\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Escritorio\IglesiaCompleto(V.6)\IglesiaCompleto(V.5)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+F:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+F:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+F:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+F:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+F:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+F:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+F:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+E:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.exe
+E:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Programa_Iglesia.pdb
+E:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.exe
+E:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.exe
+E:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Trabajo.pdb
+E:\Programa_Iglesia\Prj_Interfaz\bin\Debug\Prj_Datos.pdb
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojResolveAssemblyReference.cache
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+E:\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.Cache
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csprojAssemblyReference.cache
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.cache
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.CoreCompileInputs.cache
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bautismo.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Bodas.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Comuniones.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Misas.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Principal.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_Responsos.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.FRM_SUM.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.Properties.Resources.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.GenerateResource.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Prj_Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.exe
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Interfaz\obj\x86\Debug\Programa_Iglesia.pdb

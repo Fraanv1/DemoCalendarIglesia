@@ -1,0 +1,83 @@
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+D:\Usuario Alumno\Juegos guardados\LGI\Progamas\Principal (Agustin)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csprojResolveAssemblyReference.cache
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\IglesiaSuperMaster\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Colegio\Programas\Seminario de Programación\Iglesia\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\Copia de Copia de Agustin-Nacho(fusion v2) nodesing TRUE\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\Agustin (Comuniones y misas) COMPLETO\Agustin v3 (COMPLETO)\Agustin-Nacho(fusion v3) TODO AGUS\Agustin-Nacho(fusion)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+D:\Users\fraan\Downloads\IglesiaCompleto(V.4)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+C:\Users\Lopez\Desktop\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+D:\Usuario Alumno\Descargas\Transversilidad\ABMC\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+C:\Users\AguzKind\Downloads\IGLESIA\IglesiaCompleto(BETA)\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+F:\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+F:\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+F:\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+F:\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.Cache
+F:\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+F:\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csprojAssemblyReference.cache
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.cache
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.CoreCompileInputs.cache
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+D:\Backup 2019\Instituto 2019\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.exe
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Datos\bin\Debug\Prj_Datos.pdb
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.AssemblyReference.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.Properties.Resources.resources
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.GenerateResource.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.exe
+C:\Users\Fran\Desktop\Stuff\Backup\Instituto\2019-2018\Seminario de prog\Programa_Iglesia\Prj_Datos\obj\x86\Debug\Prj_Datos.pdb
